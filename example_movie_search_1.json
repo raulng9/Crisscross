@@ -1,0 +1,384 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 438631,
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "popularity": 381.214,
+      "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "release_date": "2021-09-15",
+      "title": "Dune",
+      "video": false,
+      "vote_average": 7.791,
+      "vote_count": 11068
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 841,
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "In the year 10,191, the most precious substance in the universe is the spice Melange. The spice extends life. The spice expands consciousness. The spice is vital to space travel.  The spice exists on only one planet in the entire universe, the vast desert planet Arrakis, also known as Dune.  Its native inhabitants, the Fremen, have long held a prophecy that a man would come, a messiah who would lead them to true freedom.",
+      "popularity": 105.929,
+      "poster_path": "/gYxUaK8HIBBkE5MycLSDFoc8bRq.jpg",
+      "release_date": "1984-12-14",
+      "title": "Dune",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 2776
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        9648,
+        53
+      ],
+      "id": 697620,
+      "original_language": "hu",
+      "original_title": "Dűne",
+      "overview": "Sounds as witnesses. They blurr into memories, half-dreams, it is undecided if they are real or not. A fluctuation between imagination and reality.",
+      "popularity": 24.31,
+      "poster_path": "/CecUPdnnP22wV1NoRFQaG231zj.jpg",
+      "release_date": "2020-06-15",
+      "title": "Dune",
+      "video": false,
+      "vote_average": 4.3,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 693134,
+      "original_language": "en",
+      "original_title": "Dune: Part Two",
+      "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "popularity": 752.461,
+      "poster_path": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "release_date": "2024-02-27",
+      "title": "Dune: Part Two",
+      "video": false,
+      "vote_average": 8.358,
+      "vote_count": 2371
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fGe1ej335XbqN1j9teoDpofpbLX.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        80
+      ],
+      "id": 915935,
+      "original_language": "fr",
+      "original_title": "Anatomie d'une chute",
+      "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
+      "popularity": 120.046,
+      "poster_path": "/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
+      "release_date": "2023-08-23",
+      "title": "Anatomy of a Fall",
+      "video": false,
+      "vote_average": 7.636,
+      "vote_count": 1662
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oOM2JzhVBjWyZFHW2iBQQ8A3znY.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 16672,
+      "original_language": "ja",
+      "original_title": "砂の女",
+      "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them.",
+      "popularity": 28.657,
+      "poster_path": "/f0JpsMQ9oEjKBD66Ky3qK3z7LGT.jpg",
+      "release_date": "1964-02-15",
+      "title": "Woman in the Dunes",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 385
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6V6y3aBbzO9fQDDjEPxtOI6vzBh.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 112160,
+      "original_language": "fr",
+      "original_title": "Chroniques sexuelles d'une famille d'aujourd'hui",
+      "overview": "Three generations of a French family open up about their sexual experiences and desires after young Romain is caught masturbating in his biology class.",
+      "popularity": 46.952,
+      "poster_path": "/qNc91oPy8ffEXOqLVwpegITC7Yd.jpg",
+      "release_date": "2012-05-09",
+      "title": "Sexual Chronicles of a French Family",
+      "video": false,
+      "vote_average": 5.167,
+      "vote_count": 294
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eKYIX3NpIqAoVxl3FFpZjEsrMuw.jpg",
+      "genre_ids": [
+        878,
+        27,
+        12
+      ],
+      "id": 881460,
+      "original_language": "en",
+      "original_title": "Planet Dune",
+      "overview": "A crew on a mission to rescue a marooned base on a desert planet turns deadly when the crew finds themselves hunted and attacked by the planet’s apex predators: giant sand worms.",
+      "popularity": 39.643,
+      "poster_path": "/cPSPghn6tr6fGY6hTi78SrxBcqY.jpg",
+      "release_date": "2021-10-29",
+      "title": "Planet Dune",
+      "video": false,
+      "vote_average": 3.5,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 1170608,
+      "original_language": "en",
+      "original_title": "Dune Messiah",
+      "overview": "The third entry in the Dune film series, adapted from Dune Messiah, the second in Frank Herbert's series of six novels.",
+      "popularity": 25.874,
+      "poster_path": "/ynbHeLhQqFFUAQFWMKClg7ZqNHs.jpg",
+      "release_date": "",
+      "title": "Dune Messiah",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uo863w1G19zWQuBZyaARmtPWvor.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        18
+      ],
+      "id": 641213,
+      "original_language": "en",
+      "original_title": "The Dunes",
+      "overview": "When a domestic counselor's ex-wife attempts to move to the other side of the country with their son and new boyfriend, he decides to do whatever is necessary to keep it from happening.",
+      "popularity": 9.805,
+      "poster_path": "/jRNt7YRAPtYrCnd8eqkIsB6Gppd.jpg",
+      "release_date": "2019-11-01",
+      "title": "The Dunes",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 533365,
+      "original_language": "fr",
+      "original_title": "La maison dans la dune",
+      "overview": "A tough customs man, out to get a youth smuggling tobacco into France across the Belgium border, falls for the jaded ex bar hostess the smuggler lives with.Meanwhile the young man is intrigued by another, more innocent girl.",
+      "popularity": 1.174,
+      "poster_path": "/A0tuKoV7nEjc9TMePf64Be2vJ5O.jpg",
+      "release_date": "1952-02-29",
+      "title": "The House on the Dune",
+      "video": false,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pyw45YPB9Mk01zQiAnvfIdUFYQo.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 911972,
+      "original_language": "zh",
+      "original_title": "沙丘虫暴",
+      "overview": "The film tells the story of a near future in which the earth is irreversibly sandy, as human emissions and rubbish exceed its carrying capacity. As plants and animals mutate to create the Earth's new masters, the \"sand worms\", which are slaughtering the planet and driving humans to the brink of extinction, the survivors are left to their own devices to find the only remaining refuge in the deep desert, the \"Oasis\". An exiled team of wealthy businessmen, scientists, security chiefs, mechanic families and gangsters set out on an adventure to find the Oasis in a special armoured vehicle, but the bloodthirsty insects are hot on their heels.",
+      "popularity": 7.409,
+      "poster_path": "/nQLdzYYB71sUugtSR7e7YdjF6Vx.jpg",
+      "release_date": "2021-12-03",
+      "title": "Devil In Dune",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 271683,
+      "original_language": "fr",
+      "original_title": "La dune",
+      "overview": "Through the course of several accidents and chance encounters, Hanoch and Ruben will meet and each of them will have to face a page of his personal history, a page that they both need to turn for good.",
+      "popularity": 1.911,
+      "poster_path": "/qNnFzvRyXk0FkHOGuxS4jWqj1vO.jpg",
+      "release_date": "2014-08-13",
+      "title": "The Dune",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7sAiuyzHtS9oBUlipMqWyrb10x.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 191720,
+      "original_language": "en",
+      "original_title": "Jodorowsky's Dune",
+      "overview": "Shot in France, England, Switzerland and the United States, this documentary covers director Alejandro Jodorowsky (El Topo, Holy Mountain, Santa Sangre) and his 1974 Quixotic attempt to adapt the seminal sci-fi novel Dune into a feature film. After spending 2 years and millions of dollars, the massive undertaking eventually fell apart, but the artists Jodorowsky assembled for the legendary project continued to work together. This group of artists, or his “warriors” as Jodorowsky named them, went on to define modern sci-fi cinema with such films as Alien, Blade Runner, Star Wars and Total Recall.",
+      "popularity": 15.358,
+      "poster_path": "/mv1zSd6P59D43iYQXs7qx01nSiX.jpg",
+      "release_date": "2013-08-30",
+      "title": "Jodorowsky's Dune",
+      "video": false,
+      "vote_average": 7.879,
+      "vote_count": 618
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 636492,
+      "original_language": "en",
+      "original_title": "The Dunes",
+      "overview": "A young couples romantic beach date turns dark when they encounter a mysterious seaside stranger. Could the last day of summer be their last day ever?",
+      "popularity": 1.359,
+      "poster_path": "/y3xgnnlppJQjULZg9DMSNOi6oPk.jpg",
+      "release_date": "2019-10-01",
+      "title": "The Dunes",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j4U7SYBDKSKddUDXbckwzrOhzxk.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1173464,
+      "original_language": "fr",
+      "original_title": "Fanny Ardant - Naissance d'une passion",
+      "overview": "",
+      "popularity": 2.438,
+      "poster_path": "/qhqNAyUpsyUaz2ytS7PuiExNIaH.jpg",
+      "release_date": "2023-09-20",
+      "title": "Fanny Ardant - Naissance d'une passion",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vpPdmaGYQUiM9Rb2znWpNyzE3Km.jpg",
+      "genre_ids": [
+        18,
+        35,
+        80
+      ],
+      "id": 36245,
+      "original_language": "fr",
+      "original_title": "Le Journal d'une femme de chambre",
+      "overview": "Celestine has a new job as a chambermaid for the quirky M. Monteil, his wife and her father. When the father dies, Celestine decides to quit her job and leave, but when a young girl is raped and murdered, Celestine believes that the Monteils' groundskeeper, Joseph, is guilty, and stays on in order to prove it. She uses her sexuality and the promise of marriage to get Joseph to confess -- but things do not go as planned.",
+      "popularity": 11.314,
+      "poster_path": "/epCJe5dzAn21mQ9L1fQ2FjIF13T.jpg",
+      "release_date": "1964-03-04",
+      "title": "Diary of a Chambermaid",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 190
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        14
+      ],
+      "id": 911777,
+      "original_language": "fr",
+      "original_title": "Sur le dune de la solitude",
+      "overview": "Suggested by Mama Watta, a legendary water goddess who seduces men into captivity, the film depicts the symbolic encounter of a man and a woman one night on the beach. The two share dreams on the sand but with daylight comes disorientation and death.",
+      "popularity": 0.6,
+      "poster_path": "/gr9ris7gGoZN344j5wIwaYsDULV.jpg",
+      "release_date": "1964-01-01",
+      "title": "On the Dune of Solitude",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 539644,
+      "original_language": "fr",
+      "original_title": "La Maison dans la dune",
+      "overview": "In a village on the French-Belgian border, a smuggler named Sylvain falls in love with the pretty Pascaline, which infuriates Germaine, his mistress. The jealous woman reports Sylvain to the police. As a result, the young man gets hurt during a night chase. Fortunately Pascaline offers him hospitality and looks after him.",
+      "popularity": 1.286,
+      "poster_path": null,
+      "release_date": "1934-08-03",
+      "title": "The House on the Dune",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/86ofQKYd6zLXrmOi8BjAZ2f9DsL.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 794842,
+      "original_language": "fr",
+      "original_title": "Chronique d'une liaison passagère",
+      "overview": "A single mother and a married man enter into an affair with the understanding that their relationship is purely sexual. Though they agree the relationship has no future, they find themselves increasingly drawn into each other's company.",
+      "popularity": 11.584,
+      "poster_path": "/vriGsitpUxCLRMkyKGHYGcGiuzS.jpg",
+      "release_date": "2022-09-14",
+      "title": "Diary of a Fleeting Affair",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 124
+    }
+  ],
+  "total_pages": 42,
+  "total_results": 837
+}

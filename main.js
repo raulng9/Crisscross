@@ -5,10 +5,12 @@ const PATH_MOVIE_CAST_2 = "http://localhost:8000/example_movie_cast_2.json";
 
 let castFirstMovie = [];
 let castSecondMovie = [];
+let movieTitles = [];
 
 async function fetchMoviesJSON(pathAPI) {
   const response = await fetch(pathAPI);
   const movies = await response.json();
+  movieTitles.push(movies.results[0].title);
   return movies.results[0];
 }
 
@@ -43,12 +45,41 @@ function getIntersectingCast() {
 }
 
 function drawVennDiagram(commonMembers) {
-  var sets = [{ sets: [castFirstMovie.map(member => member.name)], size: castFirstMovie.length },
-  { sets: [castSecondMovie.map(member => member.name)], size: castSecondMovie.length },
-  { sets: [commonMembers], size: commonMembers.length }];
+  var sets = [{ sets: [movieTitles[0]], size: castFirstMovie.length },
+  { sets: [movieTitles[1]], size: castSecondMovie.length },
+  { sets: [[movieTitles[0]], movieTitles[1]], size: commonMembers.length }];
 
-  console.log(sets);
+  var div = d3.select("#viz")
+  div.datum(sets).call(venn.VennDiagram());
 
-  var chart = venn.VennDiagram()
-  d3.select("#viz").datum(sets).call(chart);
+  var tooltip = d3.select("body").append("div")
+    .attr("class", "venntooltip");
+
+  div.selectAll(".venn-intersection")
+    .on("mouseover", function (d, i) {
+      venn.sortAreas(div, d);
+
+      tooltip.transition().duration(400).style("opacity", .9);
+      tooltip.text(commonMembers.join(', '));
+
+      var selection = d3.select(this).transition("tooltip").duration(400);
+      selection.select("path")
+        .style("stroke-width", 3)
+        .style("fill-opacity", d.sets.length == 1 ? .4 : .1)
+        .style("stroke-opacity", 1);
+    })
+
+    .on("mousemove", function () {
+      tooltip.style("left", (d3.event.pageX) + "px")
+        .style("top", (d3.event.pageY - 28) + "px");
+    })
+
+    .on("mouseout", function (d, i) {
+      tooltip.transition().duration(400).style("opacity", 0);
+      var selection = d3.select(this).transition("tooltip").duration(400);
+      selection.select("path")
+        .style("stroke-width", 0)
+        .style("fill-opacity", d.sets.length == 1 ? .25 : .0)
+        .style("stroke-opacity", 0);
+    });
 }
